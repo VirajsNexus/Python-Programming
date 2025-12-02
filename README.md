@@ -2,7 +2,10 @@
 
 &#x20;&#x20;
 
-[Explore Files](#-repository-structure) • [Getting Started](#-getting-started) • [Topics](#-topics-covered) • [Contributing](#-contributing)
+[![Explore Files](https://img.shields.io/badge/Explore_Files-blue)](#-repository-structure)
+[![Getting Started](https://img.shields.io/badge/Getting_Started-green)](#-getting-started)
+[![Topics Covered](https://img.shields.io/badge/Topics_Covered-orange)](#-topics-covered)
+[![Contributing](https://img.shields.io/badge/Contributing-purple)](#-contributing)
 
 ---
 
@@ -66,7 +69,9 @@ python filename.py
 
 ---
 
+<a id="-topics-covered"></a>
 ## 🛠️ Topics Covered
+
 
 | **Category**            | **Topics Included**                                           |
 | ----------------------- | ------------------------------------------------------------- |
