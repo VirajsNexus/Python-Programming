@@ -1,6 +1,6 @@
-set1 = {1, 5, 67, 22, 45, 34, 82}
+set1 = {1, 5, 67, 22, 45, 34, 82, 5, 1, 22}
 
-print("Hello, welcome to the world of Sets in Python!")
+print("Welcome to the world of Sets in Python!")
 print("----------------------------------------------\n")
 print("A set in Python is an unordered collection of unique items. \nSets are mutable, meaning you can add or remove items after its creation.\n")
 
@@ -16,3 +16,6 @@ print("Set 1 after adding 100:", set1)
 
 set2.remove("Banana")  # Removing an element from set2
 print("Set 2 after removing 'Banana':", set2)
+
+set_union = set1.union(set2)  # Union of set1 and set2
+print("Union of Set 1 and Set 2:", set_union)
